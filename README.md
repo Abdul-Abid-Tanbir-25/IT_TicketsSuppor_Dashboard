@@ -20,10 +20,10 @@ An interactive Excel dashboard designed to analyze IT support ticket data, provi
 #Screenshots
 Here's a snapshot of the IT Support Performance Dashboard:
 https://github.com/Abdul-Abid-Tanbir-25/IT_TicketsSuppor_Dashboard/blob/main/IT_TicketsSupport_Dashboard.PNG
-Main Dashboard View
+#Main Dashboard View
 A comprehensive overview of IT ticket support performance, showing key metrics and trends.
 .
-📧 Contact
+#📧 Contact
 For any questions or suggestions regarding this dashboard, please feel free to reach out:
 •	Your Name/Alias: Abdul Abid Tanbir
 •	LinkedIn: https://www.linkedin.com/in/abdul-abid-tanbir/
