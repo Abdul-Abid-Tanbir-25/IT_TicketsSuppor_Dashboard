@@ -1,4 +1,4 @@
-# IT_TicketsSuppor_Dashboard
+# IT_TicketsSupport_Dashboard
 #💻 Ticket to Resolution: IT Support Performance Dashboard
 
 An interactive Excel dashboard designed to analyze IT support ticket data, providing insights into ticket resolution times, common issues, team performance, and submission trends. This dashboard helps IT departments optimize their support processes and improve service delivery.
